@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+logo: /images/logo-300px.png
+show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
