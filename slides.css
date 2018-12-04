@@ -107,7 +107,7 @@ div.pic p {
   margin: 0;
 }
 div.pic img {
-  display: block;
+/*  display: block; */
   margin: auto;
   max-width: 1210px;
   max-height: 550px;
