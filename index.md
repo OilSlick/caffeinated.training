@@ -19,4 +19,4 @@ Because the SCA requires instructors to develop their own instructional material
 
 ## SCA Roasting Intermediate 
 
-No files yet
+[Slide deck](/nov29-2018.html)

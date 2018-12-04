@@ -6,6 +6,7 @@
 
 /* Fonts! Sizes! And a bit of color. */
 .remark-slide-content {
+  position: relative;
   font-family: 'Droid Serif';
   font-size: 25px !important;
 }
@@ -103,9 +104,12 @@ span.footnote {
 div.pic {
   padding: 0;
   vertical-align: middle;
+  margin: auto;
+  width: 90%;
 }
 div.pic p {
-  margin: 0;
+  margin: auto;
+  width: 75%;
 }
 div.pic img {
 /*  display: block; */
