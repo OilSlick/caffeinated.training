@@ -7,3 +7,5 @@ google_analytics: UA-38078236-9
 gem "github-pages", group: :jekyll_plugins
 
 include: _redirects
+
+github: [metadata]
