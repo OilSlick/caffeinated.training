@@ -4,4 +4,3 @@ show_downloads: true ["true" or "false" to indicate whether to provide a downloa
 google_analytics: UA-38078236-9
 
 gem "github-pages", group: :jekyll_plugins
-//
