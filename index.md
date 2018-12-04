@@ -3,7 +3,7 @@ layout: default
 ---
 This is an archive of presentation decks and instructional material from previous classes I have taught. 
 
-Because the SCA requires instructors to develop their own instructional material, I have not included all of the slide or images that may be presented in a given class.
+Because the SCA requires instructors to develop their own instructional material, I have not included all of the slides or images that may be presented in a given class.
 
 ----
 
