@@ -180,6 +180,11 @@ div img {
   content: "Exercise";
   margin-left: 1.8em;
 }
+.logo {
+  position:absolute;
+  left:0;
+  top:0;
+}
 
 li p { line-height: 1.25em; }
 
