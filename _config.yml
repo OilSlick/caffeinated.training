@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
-logo: /images/logo-300px.png
+logo: https://oilslick.github.io/caffeinated.training/images/logo-300px.png
 show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+google_analytics: UA-38078236-9
+
+gem "github-pages", group: :jekyll_plugins
