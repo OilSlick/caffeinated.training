@@ -9,7 +9,7 @@ Because the SCA requires instructors to develop their own instructional material
 
 # November 28th, 2018
 
-## SCA Roasting Foundation
+## SCA Roasting Foundation  
 
 [Slide deck](/nov28-2018.html)
 
