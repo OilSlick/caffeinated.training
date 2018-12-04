@@ -140,7 +140,7 @@ div.pic span.interstitial img {
 /* "Normal" images (not on title or pic slides) shouldn't be too big */
 div img {
   max-width: 1210px;
-  max-height: 250px;
+  max-height: 500px;
 }
 
 .nav {
