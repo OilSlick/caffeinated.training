@@ -1,4 +1,5 @@
-title: Oil Slick Coffee Training Material
+logo: /images/logo-300px.png
+show_downloads: [true to enable ]
 theme: jekyll-theme-minimal
 show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: UA-38078236-9
