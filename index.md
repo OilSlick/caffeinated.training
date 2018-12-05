@@ -7,6 +7,9 @@ Because the SCA requires instructors to develop their own instructional material
 
 While I try to ensure that the slides aren't the primary source of information, often they are—and that's a good thing. <a target="_blank" rel="noopener noreferrer external" title="" href="https://mccleskeyms.typepad.com/files/what-reading-does-for-the-mind.pdf">Reading has positive cognitive consequences</a>.
 
+Below are links to class material in reverse chronological order (most-recent first). 
+
+If you are taking an SCA Roasting Foundation course and you can use my <a target="_blank" rel="noopener noreferrer external" title="" href="/foundation-study-v1.html">study guide</a> to get a jump on the class. 
 ----
 
 # November 29th, 2018
