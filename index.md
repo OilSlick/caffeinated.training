@@ -10,6 +10,7 @@ While I try to ensure that the slides aren't the primary source of information, 
 Below are links to class material in reverse chronological order (most-recent first). 
 
 If you are taking an SCA Roasting Foundation course and you can use my <a target="_blank" rel="noopener noreferrer external" title="" href="/foundation-study-v1.html">study guide</a> to get a jump on the class. 
+
 ----
 
 # November 29th, 2018
