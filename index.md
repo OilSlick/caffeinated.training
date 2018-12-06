@@ -11,6 +11,8 @@ Below are links to class material in reverse chronological order (most-recent fi
 
 If you are taking an SCA Roasting Foundation course and you can use my <a target="_blank" rel="noopener noreferrer external" title="" href="/foundation-study-v1.html">study guide</a> to get a jump on the class. 
 
+Want to receive early notification of upcoming classes? <a href="/signup.html">Sign up for my newsletter</a>.
+
 ----
 
 # November 29th, 2018
