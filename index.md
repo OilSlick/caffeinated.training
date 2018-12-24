@@ -9,9 +9,11 @@ While I try to ensure that the slides aren't the primary source of information, 
 
 Below are links to class material in reverse chronological order (most-recent first). 
 
-If you are taking an SCA Roasting Foundation course, you can use my <a target="_blank" rel="noopener noreferrer external" title="" href="/foundation-study-v1.html">study guide</a> to get a jump on the class. 
+If you are taking an SCA Roasting Foundation course, you can use my <a target="_blank" title="" href="/foundation-study-v1.html">study guide</a> to get a jump on the class. 
 
 Want to receive early notification of upcoming classes? <a href="/signup.html">Sign up for my newsletter</a>.
+
+You can see if I have any upcoming events on my <a target="_blank" title="" href="http://blog.oilslickcoffee.com/training/">training page</a>
 
 ----
 
@@ -19,12 +21,10 @@ Want to receive early notification of upcoming classes? <a href="/signup.html">S
 
 ## SCA Roasting Intermediate 
 
-[Slide deck](/nov29-2018.html)
-
-----
+[Slide deck](/nov29-2018.html) | [White Board](/images/11-nov-18-whiteboard.jpg)
 
 # November 28th, 2018
 
 ## SCA Roasting Foundation  
 
-[Slide deck](/nov28-2018.html)
+[Slide deck](/nov28-2018.html) | [White Board](/images/11-nov-18-whiteboard.jpg)
