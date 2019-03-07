@@ -9,7 +9,7 @@ Below are links to each deck:
 
 [Primary deck](/feb27-2019.html)
 
-[Maillard reaction deck](/maillard-v1.html)
+[Maillard reaction deck](/feb27-2019-maillard.html)
 
-[Acids in coffee deck](/acids-v1.html)
+[Acids in coffee deck](/feb27-2019-acids.html)
 
