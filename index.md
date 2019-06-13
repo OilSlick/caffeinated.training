@@ -16,6 +16,18 @@ Want to receive early notification of upcoming classes? <a href="/signup.html">S
 You can see if I have any upcoming events on my <a target="_blank" title="" href="http://blog.oilslickcoffee.com/training/">training page</a>
 
 ----
+# June 12th, 2019
+
+## SCA Roasting Intermediate
+
+[Slide decks](/jun12-decks.html) | [Whiteboards](/jun12-whiteboard.html)
+
+# June 11th, 2019
+
+## SCA Roasting Foundation
+
+[Slide deck](/jun11-2019.html) | <a data-fancybox="gallery" data-selectable="true" href="/images/5758-jun11-whiteboard.jpeg">Whiteboard</a>
+
 # February 27th, 2019
 
 ## SCA Roasting Intermediate
