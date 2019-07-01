@@ -16,6 +16,12 @@ Want to receive early notification of upcoming classes? <a href="/signup.html">S
 You can see if I have any upcoming events on my <a target="_blank" title="" href="http://blog.oilslickcoffee.com/training/">training page</a>
 
 ----
+# June 28th, 2019
+
+## Coffee Sensory Workshop
+
+[Slide deck](/jun29-2019-sensory.html) | [Handout](/sensory-workshop-june-2019-handout.pdf)
+
 # June 12th, 2019
 
 ## SCA Roasting Intermediate
