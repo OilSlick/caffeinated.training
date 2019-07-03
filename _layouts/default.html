@@ -20,6 +20,10 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+          
+          {%- if jekyll.environment == "development" -%}
+            {% include instructor-dashboard.html %}
+          {% endif %}
 
       </header>
       <section>
