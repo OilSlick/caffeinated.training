@@ -1,4 +1,10 @@
-jekyll.environment: {{ jekyll.environment }}
+jekyll.environment: {{ jekyll.environment }}<BR>
+    
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
+
+
 
 <a rel="external" title="" href="/aug6-2019.html">Aug 6 (foundation)</a>
 <BR><a rel="external" title="" href="/aug7-2019.html">Aug 7 (intermediate)</a>
