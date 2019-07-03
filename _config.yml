@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 show_downloads: true ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: UA-38078236-9
 url: https://caffeinated.training
-baseurl: /
+baseurl: ""
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -37,3 +37,4 @@ exclude:
   - s3_website.yml
   
 github: [metadata]
+repository: caffeinated.training/OilSlick
