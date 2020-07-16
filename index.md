@@ -5,7 +5,7 @@ This is an archive of presentation decks and instructional material from previou
 
 Because the SCA requires instructors to develop their own instructional material, I might not have included all of the slides or images that were presented in a given class. 
 
-While I try to ensure that the slides aren't the primary source of information, often they are—and that's a good thing. <a target="_blank" rel="noopener noreferrer external" title="" href="https://mccleskeyms.typepad.com/files/what-reading-does-for-the-mind.pdf">Reading has positive cognitive consequences</a>.
+While I try to ensure that the slides aren't the primary source of information, often they are—and that's a good thing. <a target="_blank" rel="noopener noreferrer external" title="" href="https://mccleskeyms.typepad.com/files/what-reading-does-for-the-mind.pdf">Reading has positive cognitive consequences</a>. Also, as I'm primarily presenting in situations where English is a second language, the written word helps to clarify what's being said. 
 
 Below are links to class material in reverse chronological order (most-recent first). 
 
