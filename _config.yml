@@ -6,8 +6,6 @@ google_analytics: UA-38078236-9
 url: https://caffeinated.training
 baseurl: ""
 
-gem "github-pages", group: :jekyll_plugins
-
 include: 
   - _redirects
   
@@ -38,3 +36,6 @@ exclude:
   
 github: [metadata]
 repository: caffeinated.training/OilSlick
+
+sass:
+    sass_dir: _sass

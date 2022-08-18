@@ -40,8 +40,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color:#00008B;
 }
 
 a small {
@@ -269,4 +268,9 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+.cs1-lock-free li {
+    background: linear-gradient(transparent, transparent),
+		url(//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg)
+		right 0.1em center/9px no-repeat;
 }
