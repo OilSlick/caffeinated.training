@@ -37,5 +37,5 @@ exclude:
 github: [metadata]
 repository: caffeinated.training/OilSlick
 
-# sass:
-#    sass_dir: _sass
+sass:
+  sass_dir: _sass
